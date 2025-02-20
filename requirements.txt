@@ -1,0 +1,15 @@
+#D:\Workspaces\codin\requirements.txt
+
+fastapi 
+uvicorn 
+psycopg2 
+asyncpg 
+sqlalchemy 
+pydantic
+passlib[bcrypt] 
+pyjwt
+pydantic[email]
+pydantic-settings
+python-jose[cryptography]
+httpx
+requests
